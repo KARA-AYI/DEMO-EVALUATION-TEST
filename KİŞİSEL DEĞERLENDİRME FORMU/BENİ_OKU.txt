@@ -1,0 +1,11 @@
+ 03:16 12.05.2024
+BU BENIM DÜN GECE YIKILMAK ÜZERE OLAN ÖZGÜVENİMİN BUGÜN TEKRAR İNŞA ETTİĞİM KENDI BAŞIMA YAPTIĞIM İLK UYGULAMAM BUNU İNCELEYİP DENERKEN KENDINDEN YOLA CIKARAK DEGILDE YENI BASLAYAN BIRININ HATALARLA BERABER 3 SAATTE YAPTIĞI BIR UYGULAMA OLARAK INCELE LÜTFEN
+
+Personel işlerinin kendı calısanlarının durumunu ogrenmek ve bu sırada sayı cogunlugunu dusunerek dataya kaydetmesı esas alınarak hazırlanıp sablon halıne getırıldı 
+
+1-isim kaydı almadan işlem sonlandırılmıyor
+2-1 ve 10 arasındakı sayılar harıcınde herhangı bı sayı girişinde uyarı verılıyor
+3-4 farklı sekılde derecelendırıp gruplandırıyor bırımlerı
+4-Tabloda personelin isim bılgısı ve sonucu lıstelenıyor
+5-sablon olarak hazırlandı gelıstırılıp kasamlı hale getırılebılır istege gore
+

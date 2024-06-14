@@ -1,0 +1,10 @@
+C:\Users\GÜNEY\OneDrive\Masaüstü\Psikoloji_Testi\Psikoloji_Testi\bin\Debug\Psikoloji_Testi.exe.config
+C:\Users\GÜNEY\OneDrive\Masaüstü\Psikoloji_Testi\Psikoloji_Testi\bin\Debug\Psikoloji_Testi.exe
+C:\Users\GÜNEY\OneDrive\Masaüstü\Psikoloji_Testi\Psikoloji_Testi\bin\Debug\Psikoloji_Testi.pdb
+C:\Users\GÜNEY\OneDrive\Masaüstü\Psikoloji_Testi\Psikoloji_Testi\obj\Debug\Psikoloji_Testi.csproj.AssemblyReference.cache
+C:\Users\GÜNEY\OneDrive\Masaüstü\Psikoloji_Testi\Psikoloji_Testi\obj\Debug\Psikoloji_Testi.Form1.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\Psikoloji_Testi\Psikoloji_Testi\obj\Debug\Psikoloji_Testi.Properties.Resources.resources
+C:\Users\GÜNEY\OneDrive\Masaüstü\Psikoloji_Testi\Psikoloji_Testi\obj\Debug\Psikoloji_Testi.csproj.GenerateResource.cache
+C:\Users\GÜNEY\OneDrive\Masaüstü\Psikoloji_Testi\Psikoloji_Testi\obj\Debug\Psikoloji_Testi.csproj.CoreCompileInputs.cache
+C:\Users\GÜNEY\OneDrive\Masaüstü\Psikoloji_Testi\Psikoloji_Testi\obj\Debug\Psikoloji_Testi.exe
+C:\Users\GÜNEY\OneDrive\Masaüstü\Psikoloji_Testi\Psikoloji_Testi\obj\Debug\Psikoloji_Testi.pdb
